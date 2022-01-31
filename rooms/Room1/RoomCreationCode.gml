@@ -1,0 +1,1 @@
+object_set_visible(oGameOver, false);

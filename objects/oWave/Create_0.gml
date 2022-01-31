@@ -1,0 +1,1 @@
+global.pressWave = 0
